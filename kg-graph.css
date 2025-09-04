@@ -1,4 +1,8 @@
 /* Header */
+body {
+    margin: 0 30%;
+}
+
 .ctx_header {
     background: whitesmoke;
     padding: 12px 0;
