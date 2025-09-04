@@ -1,10 +1,13 @@
 /* Header */
 body {
-    margin: 0 30%;
+    margin: 0 20%;
 }
 
 .theme-wrap {
+    margin: 20px;
+
     padding: 10px;
+    background: #f9fafb;
 }
 
 .ts-title {
@@ -13,7 +16,7 @@ body {
 }
 .ts-summary {
     font-size: 14px;
-    background: #f9fafb;
+    
 }
 
 .ts-summary h2 {
